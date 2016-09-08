@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     ListView list;
     EditText text;
     Button sendButton;
-    Client myClient = null;
     String chatString = null;
     String response = null;
     @Override
