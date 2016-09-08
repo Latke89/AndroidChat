@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_41a442cc762f241534422d63b9002caaa03f4f10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_51af88bf84f955e7dae114ae5147887a947938ae/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_50e67a8b1e8717743a78533c3b907b139524760b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_97da4515829d829b20565c76fc23ad716a8c68aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_594fd838126664863d55683c017ace28286e2578/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="dde7bee8f5c2c094919de58e63b848e2948b6d66">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b7b2deadfb6f7eb8c8dacca9a41b7a1eafa26deb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_d2ab2dfa2f904fba1d3b4db040081a433e236909/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ae8cce8df34aefe94dd05a25e49904c773860cb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_4654b2c70fc6b7f96542667dc28e01bc480c77be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_ae2598cdcb027dfc0f9041672950ec2299834f2c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_81035eede573c066673e056ae8679ef29c7ad976/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f36333e6836b72006becd24bf356aaefc1879ced">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3ba7cf5a4ac84ce9d7c21eb59aa3df59b155a88f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_8e5c6360cde0829897ab1305c5cff922e1c5d864/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_c43db204a20bc975c6092285ce2de540b46106fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_2b95f19920b24429c537b33046d47b85cf1a158a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_af9f94006ceb5fbd6641a27ded8717d6cb24d19f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/Brett/Documents/Sandbox/Week5/AndroidChat/AndroidChat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0fb537266f25290b0a1f9414ae5031fb43882c02/classes.dex" />
+    </item>
+
+</items>
